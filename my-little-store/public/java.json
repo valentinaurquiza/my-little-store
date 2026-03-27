@@ -1,1 +1,82 @@
-{}
+{
+  "product1": {
+    "id": "1",
+    "name": "Ficus Elástica",
+    "description": "Planta de interior resistente con hojas verdes brillantes. Ideal para espacios luminosos.",
+    "price": "12",
+    "stock": "10",
+    "image": "/pexels-cottonbro-4505447.jpg"
+  },
+  "product2": {
+    "id": "2",
+    "name": "Planta Colgante Verde",
+    "description": "Planta decorativa colgante que aporta frescura y vida a cualquier ambiente.",
+    "price": "95",
+    "stock": "8",
+    "image": "/pexels-halilibrahimxq-586316034-18085486.jpg"
+  },
+  "product3": {
+    "id": "3",
+    "name": "Peperomia Variegada",
+    "description": "Planta pequeña con hojas verdes y crema. Perfecta para escritorios o espacios pequeños.",
+    "price": "8",
+    "stock": "15",
+    "image": "/pexels-keira-burton-6624336.jpg"
+  },
+  "product4": {
+    "id": "4",
+    "name": "Zamioculca",
+    "description": "Planta elegante y de bajo mantenimiento, ideal para interiores modernos.",
+    "price": "15",
+    "stock": "5",
+    "image": "/pexels-rocketmann-prod-9507097.jpg"
+  },
+  "product5": {
+    "id": "5",
+    "name": "Sansevieria",
+    "description": "Planta resistente que purifica el aire. Perfecta para principiantes.",
+    "price": "11",
+    "stock": "12",
+    "image": "/pexels-sasha-kim-9412325.jpg"
+  },
+  "product6": {
+    "id": "6",
+    "name": "Snake Plant",
+    "description": "A striking and virtually indestructible houseplant with tall, upright sword-shaped leaves featuring dark green banding patterns. Perfect for beginners and low-light spaces.",
+    "price": "24.99",
+    "stock": "15",
+    "image": "/pexels-sasha-kim-9412353.jpg"
+  },
+  "product7": {
+    "id": "7",
+    "name": "Hoya in Macramé Hanger",
+    "description": "A gorgeous trailing Hoya plant in a minimalist ceramic pot, elegantly displayed in a handwoven macramé hanger. Adds a boho-chic touch to any room.",
+    "price": "39.99",
+    "stock": "8",
+    "image": "/pexels-sasha-kim-9413982.jpg"
+  },
+  "product8": {
+    "id": "8",
+    "name": "Marble Queen Pothos",
+    "description": "A lush and fast-growing trailing plant with stunning green and white marbled leaves. Low-maintenance and ideal for shelves, hangers, or tabletops.",
+    "price": "19.99",
+    "stock": "20",
+    "image": "/pexels-sasha-kim-9414035.jpg"
+  },
+  "product9": {
+    "id": "9",
+    "name": "Polka Dot Begonia",
+    "description": "An eye-catching houseplant with deep green leaves beautifully spotted with silver-white dots. A rare and collector-favorite variety that thrives in bright indirect light.",
+    "price": "29.99",
+    "stock": "10",
+    "image": "/pexels-sasha-kim-9414050.jpg"
+  },
+  "product10": {
+    "id": "10",
+    "name": "Variegated Philodendron",
+    "description": "A stunning tropical plant featuring large glossy leaves with creamy white and green variegation. A statement piece that brings a lush, jungle feel to any indoor space.",
+    "price": "34.99",
+    "stock": "12",
+    "image": "/pexels-sasha-kim-9414054.jpg"
+  }
+}
